@@ -12,7 +12,7 @@
   --title-color: hsl(var(--hue), var(--sat), 20%);
   --title-color-dark: hsl(var(--sat), var(--sat), 0%);
   --text-color: hsl(var(--sat), var(--sat), 50%);
-  --body-color: hsl(var(--sat), var(--sat), 98%);
+  --body-color: #ebeaeac7;
   --container-color: #fff;
 
   /*===== Font sizes =====*/
@@ -130,7 +130,7 @@ img {
 
 /*===== Layout =====*/
 .container {
-  max-width: 968px;
+  max-width: 1200px;
   margin-left: auto;
   margin-right: auto;
 }

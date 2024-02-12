@@ -51,7 +51,7 @@
     color: var(--title-color-dark)
 }
 
-/*===== BREAKPOINTS =====*/
+/*===== BREAKPOINT =====*/
 @media screen and (max-width: 768px) {
     .header {
         top: initial;

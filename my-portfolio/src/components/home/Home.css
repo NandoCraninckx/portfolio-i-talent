@@ -1,0 +1,35 @@
+.home__container {
+    align-items: center;
+}
+
+.home__logo {
+    max-width: 600px;
+    max-height: 600px;
+    margin: auto; 
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+}
+
+h1, h3, .home__line {
+    margin: auto; 
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+}
+
+h1 {
+    font-size: var(--h1-font-size);
+}
+
+h3 {
+    font-size: var(--h3-font-size);
+}
+
+.home__line {
+    content: "";
+    width: 80px;
+    height: 1px;
+    background-color: black;
+
+}
