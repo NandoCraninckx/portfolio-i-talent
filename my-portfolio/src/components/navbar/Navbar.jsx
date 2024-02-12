@@ -1,28 +1,40 @@
-import React from 'react';
+import React, { useState} from 'react';
 import "./Navbar.css";
 
 const Navbar = () => {
+    const [menuOpen, setMenuOpen] = useState(false);
+
+    const toggleMenu = () => setMenuOpen(!menuOpen);
+
     return (
         <header className="header">
-            <nav className="navbar">
-                <a href="index.html" className="navbar__logo">PXL I-Talent</a>
+            <nav className="navbar container">
+                <a href="home" className="navbar__logo">PXL I-Talent</a>
 
-                <ul className="navbar__menu">
-                    <div className="navbar__list grid">
+                <div className={`navbar__menu ${menuOpen ? "show" : ""}`}>
+                    <ul className="navbar__list grid">
                         <li className="navbar__item">
-                            <a href="/" className="navbar__link">Home</a>
+                            <a href="home" className="navbar__link active-link">Home</a>
                         </li>
                         <li className="navbar__item">
-                            <a href="/" className="navbar__link">About</a>
+                            <a href="over" className="navbar__link">Over</a>
                         </li>
                         <li className="navbar__item">
-                            <a href="/" className="navbar__link">Projecten</a>
+                            <a href="projecten" className="navbar__link">Projecten</a>
                         </li>
                         <li className="navbar__item">
-                            <a href="/" className="navbar__link">Contact</a>
+                            <a href="contact" className="navbar__link">Contact</a>
                         </li>
+                    </ul>
+
+                    <div className="navbar__close" onClick={toggleMenu}>
+                        <i class='bx bx-x'></i>
                     </div>
-                </ul>
+                </div>
+
+                <div className={`navbar__toggle ${menuOpen ? "show" : ""}`} onClick={toggleMenu}>
+                    <i class='bx bx-menu'></i>
+                </div>
             </nav>
         </header>
     );
