@@ -1,7 +1,8 @@
 import './App.css';
 import About from './components/about/About';
 import Home from './components/home/Home';
-import Navbar from "./components/navbar/Navbar";
+import Navbar from './components/navbar/Navbar';
+import AccordionMenu from './components/projecten/AccordionMenu';
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <main className="main">
         <Home/>
         <About/>
+        <AccordionMenu/>
       </main>
       </>
       

@@ -1,8 +1,8 @@
-.home__container {
+.home-container {
     align-items: center;
 }
 
-.home__logo {
+.home-logo {
     max-width: 600px;
     max-height: 600px;
     margin: auto; 
@@ -11,7 +11,7 @@
     align-items: center;
 }
 
-h1, h3, .home__line {
+h1, h3, .home-line {
     margin: auto; 
     display: flex; 
     justify-content: center; 
@@ -26,7 +26,7 @@ h3 {
     font-size: var(--h3-font-size);
 }
 
-.home__line {
+.home-line {
     content: "";
     width: 80px;
     height: 1px;

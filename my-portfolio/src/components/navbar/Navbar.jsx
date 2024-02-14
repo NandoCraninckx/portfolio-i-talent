@@ -9,30 +9,30 @@ const Navbar = () => {
     return (
         <header className="header">
             <nav className="navbar container">
-                <a href="home" className="navbar__logo">PXL I-Talent</a>
+                <a href="home" className="navbar-logo">PXL I-Talent</a>
 
-                <div className={`navbar__menu ${menuOpen ? "show" : ""}`}>
-                    <ul className="navbar__list grid">
-                        <li className="navbar__item">
-                            <a href="home" className="navbar__link active-link">Home</a>
+                <div className={`navbar-menu ${menuOpen ? "show" : ""}`}>
+                    <ul className="navbar-list grid">
+                        <li className="navbar-item">
+                            <a href="home" className="navbar-link active-link">Home</a>
                         </li>
-                        <li className="navbar__item">
-                            <a href="over" className="navbar__link">Over</a>
+                        <li className="navbar-item">
+                            <a href="over" className="navbar-link">Over</a>
                         </li>
-                        <li className="navbar__item">
-                            <a href="projecten" className="navbar__link">Projecten</a>
+                        <li className="navbar-item">
+                            <a href="projecten" className="navbar-link">Projecten</a>
                         </li>
-                        <li className="navbar__item">
-                            <a href="contact" className="navbar__link">Contact</a>
+                        <li className="navbar-item">
+                            <a href="contact" className="navbar-link">Contact</a>
                         </li>
                     </ul>
 
-                    <div className="navbar__close" onClick={toggleMenu}>
+                    <div className="navbar-close" onClick={toggleMenu}>
                         <i class='bx bx-x'></i>
                     </div>
                 </div>
 
-                <div className={`navbar__toggle ${menuOpen ? "show" : ""}`} onClick={toggleMenu}>
+                <div className={`navbar-toggle ${menuOpen ? "show" : ""}`} onClick={toggleMenu}>
                     <i class='bx bx-menu'></i>
                 </div>
             </nav>

@@ -12,7 +12,7 @@
   --title-color: hsl(var(--hue), var(--sat), 20%);
   --title-color-dark: hsl(var(--sat), var(--sat), 0%);
   --text-color: hsl(var(--sat), var(--sat), 50%);
-  --body-color: #ebeaeac7;
+  --body-color: #44454769;
   --container-color: #fff;
 
   /*===== Font sizes =====*/
@@ -28,6 +28,7 @@
   --tiny-font-size: 0.625rem;
 
   /*===== Font weight =====*/
+  --font-small: 300;
   --font-normal: 400;
   --font-medium: 500;
   --font-semi-bold: 600;
@@ -111,20 +112,21 @@ img {
 /*===== Reusable CSS classes =====*/
 .section {
   padding: 6rem 0 2rem;
+  background-color: var(--container-color);
 }
 
-.section__title {
+.section-title {
   font-size: var(--h1-font-size);
   color: var(--title-color);
 }
 
-.section__subtitle {
+.section-subtitle {
   display: block;
   font-size: var(--small-font-size);
   margin-bottom: 4rem;
 }
 
-.section__title, .section__subtitle {
+.section-title, .section-subtitle {
   text-align: center;
 }
 
@@ -154,7 +156,7 @@ img {
   background-color: var(--title-color-dark);
 }
 
-.button__icon {
+.button-icon {
   margin-left: var(--mb-0-5);
 }
 
@@ -164,7 +166,7 @@ img {
 }
 
 /*===== BREAKPOINTS =====*/
-@media screen and (max-width: 992px) {
+@media screen and (max-width: 1250px) {
   .container {
     margin-left: var(--mb-1-5);
     margin-right: var(--mb-1-5);
@@ -173,7 +175,9 @@ img {
 }
 
 @media screen and (max-width: 768px) {
-
+  .section {
+    padding: 2rem 0 4rem;
+  }
 }
 
 @media screen and (max-width: 576px) {
@@ -181,7 +185,10 @@ img {
 }
 
 @media screen and (max-width: 350px) {
-
+  .container {
+    margin-left: var(--mb-1);
+    margin-right: var(--mb-1);
+  }
 }
 
 
