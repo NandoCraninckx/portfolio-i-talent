@@ -23,6 +23,9 @@ const Navbar = () => {
                             <a href="projecten" className="navbar-link">Projecten</a>
                         </li>
                         <li className="navbar-item">
+                            <a href="reflectie" className="navbar-link">Reclectie</a>
+                        </li>
+                        <li className="navbar-item">
                             <a href="contact" className="navbar-link">Contact</a>
                         </li>
                     </ul>
