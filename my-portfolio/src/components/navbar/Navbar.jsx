@@ -9,24 +9,24 @@ const Navbar = () => {
     return (
         <header className="header">
             <nav className="navbar container">
-                <a href="home" className="navbar-logo">PXL I-Talent</a>
+                <a href="#home" className="navbar-logo">PXL I-Talent</a>
 
                 <div className={`navbar-menu ${menuOpen ? "show" : ""}`}>
                     <ul className="navbar-list grid">
                         <li className="navbar-item">
-                            <a href="home" className="navbar-link active-link">Home</a>
+                            <a href="#home" className="navbar-link active-link">Home</a>
                         </li>
                         <li className="navbar-item">
-                            <a href="over" className="navbar-link">Over</a>
+                            <a href="#about" className="navbar-link">Over</a>
                         </li>
                         <li className="navbar-item">
-                            <a href="projecten" className="navbar-link">Projecten</a>
+                            <a href="#accordionMenu" className="navbar-link">Projecten</a>
                         </li>
                         <li className="navbar-item">
-                            <a href="reflectie" className="navbar-link">Reclectie</a>
+                            <a href="#reflectie" className="navbar-link">Reflectie</a>
                         </li>
                         <li className="navbar-item">
-                            <a href="contact" className="navbar-link">Contact</a>
+                            <a href="#contact" className="navbar-link">Contact</a>
                         </li>
                     </ul>
 

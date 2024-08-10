@@ -26,7 +26,7 @@ const ContactInfo = () => {
         <div className="contact-container container grid">
             <div className="contact-content">
                 <h3 className="contact-title">Talk to me</h3>
-            </div>
+            
 
             <div className="contact-info">
                 <div className="contact-card">
@@ -40,35 +40,33 @@ const ContactInfo = () => {
                         contact-button-icon"></i>
                     </a>
                 </div>
-            </div>
 
-            <div className="contact-info">
                 <div className="contact-card">
                     <i className="bx bxl-linkedin contact-card-icon"></i>
 
                     <h3 className="contact-card-title">LinkedIn</h3>
-                    <span className="contact-card-data">0494/12 34 56</span>
+                    <span className="contact-card-data">Nando Craninckx</span>
 
-                    <a href="" className="contact-button">
-                        Write me <i className="bx bx-right-arrow-alt
+                    <a href="https://www.linkedin.com/in/nando-craninckx/" className="contact-button">
+                        Bekijk mijn LinkedIn-pagina <i className="bx bx-right-arrow-alt
                         contact-button-icon"></i>
                     </a>
                 </div>
-            </div>
 
-            <div className="contact-info">
                 <div className="contact-card">
                     <i className="bx bxl-github contact-card-icon"></i>
 
                     <h3 className="contact-card-title">GitHub</h3>
-                    <span className="contact-card-data">0494/12 34 56</span>
+                    <span className="contact-card-data">NandoCraninckx</span>
 
-                    <a href="" className="contact-button">
-                        Write me <i className="bx bx-right-arrow-alt
+                    <a href="https://github.com/NandoCraninckx" className="contact-button">
+                        Bekijk mijn Github-account <i className="bx bx-right-arrow-alt
                         contact-button-icon"></i>
                     </a>
                 </div>
+
             </div>
+        </div>
 
             <div className="contact-content">
                 <h3 className="contact-title">Write me your project</h3>
