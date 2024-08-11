@@ -21,13 +21,18 @@ const AccordionMenu = () => {
                                 isActive={isActive === 1}
                                 onClick={() => handleClick(1)}/>
                                 
-                                <AccordionItem title="Project 2: RPG-game ontwikkeld met Godot"
+                                <AccordionItem title="Project 2: Game ontwikkeld met Godot"
                                 content="Hier wordt nog hard aan gewerkt."
                                 isActive={isActive === 2}
                                 onClick={() => handleClick(2)}/>
 
                                 <AccordionItem title="Project 3: Certified MuleSoft Developer"
-                                content="Hier wordt nog hard aan gewerkt."
+                                content= {
+                                    <div>
+                                        <p>BLablalbla</p>
+                                        <button>test</button>
+                                    </div> 
+                                }
                                 isActive={isActive === 3}
                                 onClick={() => handleClick(3)}/>
                         </div>                        
