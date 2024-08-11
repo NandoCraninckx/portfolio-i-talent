@@ -1,4 +1,5 @@
 import './App.css';
+import Aanpak from './components/aanpak/Aanpak';
 import About from './components/about/About';
 import ContactInfo from './components/contactInfo/ContactInfo';
 import Footer from './components/footer/Footer';
@@ -15,6 +16,7 @@ function App() {
       <main className="main">
         <Home/>
         <About/>
+        <Aanpak/>
         <AccordionMenu/>
         <Reflectie/>
         <ContactInfo/>

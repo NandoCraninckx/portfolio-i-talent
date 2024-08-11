@@ -20,6 +20,9 @@ const Navbar = () => {
                             <a href="#about" className="navbar-link">Over</a>
                         </li>
                         <li className="navbar-item">
+                            <a href="#aanpak" className="navbar-link">Aanpak</a>
+                        </li>
+                        <li className="navbar-item">
                             <a href="#accordionMenu" className="navbar-link">Projecten</a>
                         </li>
                         <li className="navbar-item">

@@ -18,6 +18,7 @@
     cursor: pointer;
     transition: 0.25s background-color;
     box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+    height: auto;
 }
 
 .accordion-item.active {
@@ -25,10 +26,16 @@
 }
 
 .accordion-tile {
-    font-size: var(--h2-font-size);
+    font-size: var(--h1-font-size);
     font-weight: var(--font-medium);
     color: #000;
 
+}
+
+.accordion-subtitle {
+    font-size: var(--h2-font-size);
+    font-weight: var(--font-medium);
+    color: #000;
 }
 
 .accordion-content {
@@ -38,7 +45,8 @@
     font-weight: var(--font-small);
     font-size: var(--small-font-size);
     margin: 0;
-    transition: 0.5s max-height, 0.5s margin;
+    transition: max-height 0.5s ease, margin 0.5s ease;
+    /*transition: 0.5s max-height, 0.5s margin*/;
 }
 
 .accordion-content.active {
@@ -88,5 +96,57 @@
     background-color: #000;
     transform: translateY(calc(-0.75rem / 2 - 0.094rem));
 }
+
+.content-paragraph {
+    margin: auto; 
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+    font-size: var(--normal-font-size);
+    padding-bottom: 1.5rem;
+
+}
+
+/* Style for the form button */
+.content-button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #000000; /* Black background */
+    color: white; /* White text */
+    padding: 12px 24px; /* Some padding */
+    font-size: 16px; /* Increase font size */
+    font-weight: 600; /* Bold text */
+    border: none; /* Remove borders */
+    border-radius: 5px; /* Rounded corners */
+    cursor: pointer; /* Pointer/hand icon */
+    transition: background-color 0.3s ease, transform 0.2s ease; /* Smooth transitions */
+  }
+  
+  .content-button--flex {
+    display: inline-flex;
+    align-items: center;
+  }
+  
+  .content-button i {
+    margin-left: 8px; /* Space between text and icon */
+    transition: transform 0.2s ease;
+  }
+  
+  .content-button:hover {
+    background-color: #333333; /* Darker gray on hover */
+    transform: scale(1.05); /* Slightly enlarge on hover */
+  }
+  
+  .content-button:active {
+    background-color: #1a1a1a; /* Even darker gray when clicked */
+    transform: scale(0.98); /* Slightly shrink on click */
+  }
+  
+  .content-button i:hover {
+    transform: translateX(4px); /* Slight movement to the right on hover */
+  }
+
+  
 
 
