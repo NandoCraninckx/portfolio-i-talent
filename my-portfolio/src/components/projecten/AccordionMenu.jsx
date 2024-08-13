@@ -22,7 +22,7 @@ const AccordionMenu = () => {
                                         <h2 className="accordion-subtitle">Kern</h2>
                                         <p className= "content-paragraph">
                                         Als eerste project is ervoor gekozen om het vereiste portfolio van dit opleidingsonderdeel te maken in de vorm van een website. 
-                                        Omdat er tijdens de opleiding geen aandacht wordt gelegd op React, wou ik met dit de website maken en ontdekken waarom het een zo populaire gekozen programmeertaal is.  
+                                        Omdat er tijdens de opleiding geen aandacht wordt gelegd op React, wilde ik met dit de website maken en ontdekken waarom het een zo populaire gekozen programmeertaal is.  
                                         </p>
                                         <p className= "content-paragraph">
                                         Omdat ik deze website op termijn misschien ook wil gebruiken voor persoonlijk gebruik is er goed gedacht over de uitstraling en feeling van de site.
@@ -32,7 +32,7 @@ const AccordionMenu = () => {
                                         </p>
                                         <h2 className="accordion-subtitle">Reflectie</h2>
                                         <button className="content-button">
-                                            <a href="https://github.com/NandoCraninckx/portfolio-i-talent" target="_blank" rel="noopener noreferrer">
+                                            <a className="a-link" href="https://github.com/NandoCraninckx/portfolio-i-talent" target="_blank" rel="noopener noreferrer">
                                                 Code Github
                                             </a>
                                         </button>
@@ -48,7 +48,7 @@ const AccordionMenu = () => {
 
                                         </p>
                                         <button className="content-button">
-                                            <a href="https://github.com/NandoCraninckx/rpg-game-godot" target="_blank" rel="noopener noreferrer">
+                                            <a className="a-link" href="https://github.com/NandoCraninckx/rpg-game-godot" target="_blank" rel="noopener noreferrer">
                                                 Code Github
                                             </a>
                                         </button>
@@ -64,7 +64,7 @@ const AccordionMenu = () => {
 
                                         </p>
                                         <button className="content-button" >
-                                            <a href="https://github.com/NandoCraninckx/exercises-mulesoft" target="_blank" rel="noopener noreferrer">
+                                            <a className="a-link" href="https://github.com/NandoCraninckx/exercises-mulesoft" target="_blank" rel="noopener noreferrer">
                                                 Code GitHub
                                             </a>
                                         </button>
