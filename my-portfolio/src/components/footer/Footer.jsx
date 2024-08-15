@@ -13,12 +13,17 @@ const Footer = () => {
                 </li>
 
                 <li>
+                    <a href="#aanpak" className="footer-link">Aanpak</a>
+                </li>
+
+                <li>
                     <a href="#accordionMenu" className="footer-link">Projecten</a>
                 </li>
 
                 <li>
                     <a href="#reflectie" className="footer-link">Reflectie</a>
                 </li>
+
             </ul>
 
             <span className="footer-copy">&#169; Nando Craninckx. All rights reserved</span>

@@ -107,6 +107,13 @@
 
 }
 
+.content-image {
+    margin: auto; 
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+}
+
 /* Style for the form button */
 .content-button {
     display: inline-flex;
