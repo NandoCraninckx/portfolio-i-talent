@@ -1,4 +1,5 @@
 import React from 'react';
+import "./Aanpak.css";
 
 const Aanpak = () => {
   return (

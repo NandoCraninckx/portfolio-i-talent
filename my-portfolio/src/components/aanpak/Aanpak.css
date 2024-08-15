@@ -1,0 +1,9 @@
+.aanpak-paragraph {
+    margin: auto; 
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+    text-align: justify;
+    font-size: var(--normal-font-size);
+    padding-bottom: 1.5rem;
+}

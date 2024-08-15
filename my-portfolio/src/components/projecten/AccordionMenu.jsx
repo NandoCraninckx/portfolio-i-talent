@@ -271,7 +271,7 @@ const AccordionMenu = () => {
                                         Wat zeker niet slecht is. Dit omdat in mijn ogen je zelfstandig werken stimuleert en zelf initiatief durft nemen om verder te kijken dan enkel de cursus. 
                                         </p>
                                         <p className="content-paragraph">
-                                        HSamengevat ben ik blij dat ik de kans krijg om dit traject te doorlopen en dat ik de mogelijkheid krijg om een certified developer te worden. 
+                                        Samengevat ben ik blij dat ik de kans krijg om dit traject te doorlopen en dat ik de mogelijkheid krijg om een certified developer te worden. 
                                         </p>
                                         <button className="content-button" >
                                             <a className="a-link" href="https://github.com/NandoCraninckx/exercises-mulesoft" target="_blank" rel="noopener noreferrer">

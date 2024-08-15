@@ -19,7 +19,8 @@
 .about-paragraph {
     margin: auto; 
     display: flex; 
-    justify-content: center; 
+    justify-content: center;
+    text-align: justify; 
     align-items: center;
     font-size: var(--normal-font-size);
 
