@@ -21,7 +21,7 @@ const Footer = () => {
                 </li>
 
                 <li>
-                    <a href="#reflectie" className="footer-link">Reflectie</a>
+                    <a href="#reflectie" className="footer-link">Eindreflectie</a>
                 </li>
 
             </ul>

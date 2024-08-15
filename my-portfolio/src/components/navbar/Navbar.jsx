@@ -26,7 +26,7 @@ const Navbar = () => {
                             <a href="#accordionMenu" className="navbar-link">Projecten</a>
                         </li>
                         <li className="navbar-item">
-                            <a href="#reflectie" className="navbar-link">Reflectie</a>
+                            <a href="#reflectie" className="navbar-link">Eindreflectie</a>
                         </li>
                         <li className="navbar-item">
                             <a href="#contact" className="navbar-link">Contact</a>

@@ -33,3 +33,44 @@ h3 {
     background-color: black;
 
 }
+
+@media screen and (mx-width: 1250px) {
+
+}
+
+@media screen and (max-width: 768px) {
+    .home-logo {
+        max-width: 80vw; /* Zorgt ervoor dat het logo kleiner wordt op kleinere schermen */
+        max-height: auto; /* Houdt de verhouding correct */
+    }
+
+    h1 {
+        font-size: calc(var(--h1-font-size) * 0.8); /* Vermindert de grootte van h1 op kleinere schermen */
+    }
+
+    h3 {
+        font-size: calc(var(--h3-font-size) * 0.8); /* Vermindert de grootte van h3 op kleinere schermen */
+    }
+
+    .home-line {
+        width: 60px; /* Maakt de lijn kleiner op kleinere schermen */
+    }
+}
+  
+@media screen and (max-width: 350px) {
+    .home-logo {
+        max-width: 90vw; /* Nog kleiner op zeer kleine schermen */
+    }
+
+    h1 {
+        font-size: calc(var(--h1-font-size) * 0.6); /* Nog kleinere h1 voor zeer kleine schermen */
+    }
+
+    h3 {
+        font-size: calc(var(--h3-font-size) * 0.6); /* Nog kleinere h3 voor zeer kleine schermen */
+    }
+
+    .home-line {
+        width: 50px; /* Kleinste lijn voor de kleinste schermen */
+    }
+}

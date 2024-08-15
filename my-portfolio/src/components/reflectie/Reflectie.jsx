@@ -32,9 +32,6 @@ const Reflectie = () => {
                     <p className="eindreflectie-paragraph">
                     Op het vlak van de opleiding zelf heb ik heel veel bijgeleerd. Als je kijkt van in het begin van de opleiding, niet deftig weten wat een API was. 
                     Tot deze nu zelf bouwen, dan besef je wel van over je komt. Daarom ben ik blij dat ik met zoveel verschillende technologieën en tools in aanraking ben gekomen. 
-
-                    </p>
-                    <p className="eindreflectie-paragraph">
                     Dit alles heeft zich vertaald in een nieuwe baan bij het bedrijf waar ik stage gelopen heb. Hier heb ik kennisgemaakt met integratie ontwikkeling en low code tools. 
                     Tijdens de stage bleek dat dat mij wel ligt en daarom ben ik dus ook blij dat ik dit kan verderzetten als fulltime baan.
                     </p>
