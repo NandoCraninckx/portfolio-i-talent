@@ -11,18 +11,22 @@ const About = () => {
                     <img src={pictureNando} alt="foto Nando" className="about-pictureNando" />
                     <p className="about-paragraph">
                     Mijn naam is Nando Craninckx en momenteel ben ik bezig aan het laatste jaar van een professionele bachelor in de Toegepaste Informatica (Switch2IT) aan PXL Hasselt. 
-                    Dit is een traject dat specifiek ontworpen is voor mensen die werken en studeren willen combineren. Hierdoor ging ik de afgelopen drie jaar elke donderdag naar de les en werkte de andere dagen als commercieel medewerker bij Bpost. 
+                    Dit is een traject dat specifiek ontworpen is voor mensen die werken en studeren willen combineren. 
+                    Hierdoor ging ik de afgelopen drie jaar elke donderdag naar de les en werkte de andere dagen als commercieel medewerker bij Bpost. 
                     Ondertussen mag ik mij na een succesvolle stageperiode bij de integratie-experten van Dots & Arrows, Integration Developer noemen.
                     </p>
                     <p className="about-paragraph">
                     In mijn vrije tijd maak ik graag hiketochten en ontdek ik de wereld door te reizen, wat jammer genoeg de laatste jaren op een laag pitje is gevallen. 
                     Verder kan je me ook altijd warm maken voor een padel en squash wedstrijd of een fietstocht met de koersfiets. Sinds enkele maanden mag ik me een trotse papa noemen van een dochter, Pauline. 
-                    Voor uitstapjes met haar en mijn vriendin, Ine ben ik natuurlijk ook altijd te vinden.
+                    Voor uitstapjes met haar en mijn vriendin, Ine, ben ik natuurlijk ook altijd te vinden.
                     </p>
                     <p className="about-paragraph">
-                    Waarom de stap maken om terug te gaan studeren, vraagt u zich wellicht af. Wel dit heeft twee redenen. De meest voor de hand liggende is natuurlijk omdat mijn interesses altijd al in de IT-sector lagen. 
-                    Tot op heden heb ik hiermee nooit iets gedaan maar “de goesting” hiervoor werd steeds groter. De tweede reden, die mij helemaal over de streep heeft getrokken, is het besef dat ik tijdens de corona pandemie heb gekregen. 
-                    Het besef dat mijn huidige job niet datgene is wat ik wil doen tot het einde van mijn carrière. Ook het besef en de spijt dat ik vroeger als jong volwassene mijn studies aan het hoger onderwijs niet heb afgemaakt. 
+                    Waarom de stap maken om terug te gaan studeren, vraagt u zich wellicht af. Dit heeft twee redenen. 
+                    De meest voor de hand liggende is natuurlijk omdat mijn interesses altijd al in de IT-sector lagen. 
+                    Tot op heden heb ik hiermee nooit iets gedaan maar “de goesting” hiervoor werd steeds groter. 
+                    De tweede reden, die mij helemaal over de streep heeft getrokken, is het besef dat ik tijdens de corona pandemie heb gekregen. 
+                    Het besef dat mijn huidige job niet datgene is wat ik wil doen tot het einde van mijn carrière. 
+                    Ook het besef en de spijt dat ik vroeger als jong volwassene mijn studies aan het hoger onderwijs niet heb afgemaakt. 
                     Dit zorgt voor een grote stimulans en motivatie voor mij om met mijn professionele en persoonlijke ontwikkeling een andere weg in te slaan.
                     </p>
                     <p className="about-paragraph">

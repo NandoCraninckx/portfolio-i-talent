@@ -25,26 +25,30 @@ const AccordionMenu = () => {
                                     <div>
                                         <h2 className="accordion-subtitle">Kern</h2>
                                         <p className= "content-paragraph">
-                                        De keuze van het eerste project is snel gemaakt en is ook een vrij logische keuze. Voor dit opleidingsonderdeel moet er een portfolio gemaakt worden. 
-                                        Aangezien dit een IT richting is, komt de keuze om een online portfolio, in de vorm van een website, dus niet al te vreemd.  
+                                        De keuze van het eerste project is snel gemaakt en is ook een vrij logische keuze. 
+                                        Voor dit opleidingsonderdeel moet er een portfolio gemaakt worden. 
+                                        Aangezien dit een IT richting is, komt de keuze om een online portfolio, in de vorm van een website, dus niet al te vreemd. 
                                         </p>
                                         <p className= "content-paragraph">
-                                        Er zijn ook nog twee andere redenen waarom dit in de vorm van een website gedaan wordt. De eerste reden is dat ik mijn kennis van frontend ontwikkeling wil opfrissen en vooral verder wil ontwikkelen. 
-                                        Mijn focus en interesse zijn meer naar het backend gedeelte van een applicatie. Maar het op punt houden van op zijn minst algemene kennis van het frontend gedeelte mag zeker niet uit het oog verloren worden. 
-                                        Ook tijdens mijn opleiding vond ik vaak dat ik “aan het prullen” was met de lay-out. Nu dus een perfect moment om hierbij even stil te staan. 
+                                        Er zijn ook nog twee andere redenen waarom dit in de vorm van een website gedaan wordt. 
+                                        De eerste reden is dat ik mijn kennis van frontend ontwikkeling wil opfrissen en vooral verder wil ontwikkelen. Mijn focus en interesse zijn meer naar het backend gedeelte van een applicatie. 
+                                        Maar het op punt houden van op zijn minst algemene kennis van het frontend gedeelte mag zeker niet uit het oog verloren worden. 
+                                        Ook tijdens mijn opleiding vond ik vaak dat ik “aan het prullen” was met de lay-out. 
+                                        Nu dus een perfect moment om hierbij even stil te staan.
                                         </p>
                                         <p className= "content-paragraph">
                                         De tweede reden is omdat ik zelf graag een project met React wil maken. React wordt doorheen de drie schooljaren niet behandeld. 
-                                        Zijn twee tegenpolen dan weer wel, Angular en Vue.js. Omdat React toch vaak gebruikt wordt om mee te werken in de bedrijfswereld wil ik hier graag de basis van meekrijgen.  
+                                        Zijn twee tegenpolen dan weer wel, Angular en Vue.js. Omdat React toch vaak gebruikt wordt om mee te werken in de bedrijfswereld wil ik hier graag de basis van meekrijgen. 
                                         </p>
                                         <p className= "content-paragraph">
                                         Omdat de website op termijn waarschijnlijk ook voor persoonlijk gebruik ingezet gaat worden, is er goed nagedacht over de uitstraling en feeling ervan. 
                                         Zelf hou ik van een eerder minimalistische stijl en dit kan je ook terugvinden op de site. 
-                                        Het persoonlijke karakter van de site wordt versterkt door het zelf ontworpen logo op de homepagina van de website. Dit stellen de hoofdletters ‘C’ en ‘N’ voor, wat dan ook mijn initialen zijn. 
-                                        Hiermee wordt een bezoeker begroet als bij het inladen van de website. Een eigen logo maken is iets waar ik in het verleden nog over had nagedacht en zich nu ook goed toe verleent.   
+                                        Het persoonlijke karakter van de site wordt versterkt door het zelf ontworpen logo op de homepagina van de website. 
+                                        Dit stellen de hoofdletters ‘C’ en ‘N’ voor, wat dan ook mijn initialen zijn. Hiermee wordt een bezoeker begroet bij het laden van de website. 
+                                        Een eigen logo maken is iets waar ik in het verleden nog over had nagedacht en zich nu ook goed toe leent.    
                                         </p>
                                         <p className= "content-paragraph">
-                                        Om de werking van React beter te leren kennen, kan hun eigen website geraadpleegd worden. Via deze site vind je allerhande gedocumenteerde informatie terug over de basiseigenschappen van React. 
+                                        Om de werking van React beter te leren kennen, heb ik hun website geraadpleegd. Via deze site vind je allerhande gedocumenteerde informatie terug over de basiseigenschappen van React. 
                                         Dit vormt een goede fundering om mee aan de start te gaan. Verder is er online een waaier aan informatie en voorbeelden te vinden die de verschillende mogelijkheden van React tonen. 
                                         Voor mijn eigen website bekeek ik verschillende tutorials op Youtube en las ik documentatie van andere developers. 
                                         Met al deze informatie en mijn eigen voorkeuren had ik een idee over het verder opmaken van de site en welke functionaliteit/animaties ik erin wil verwerken.  
@@ -69,8 +73,9 @@ const AccordionMenu = () => {
                                         Dit is makkelijk in orde te brengen door het bouwen van die specifieke componenten en toe te voegen aan de de pagina.    
                                         </p>
                                         <p className= "content-paragraph">
-                                        Tijdens het maken van de website ondervond ik dat het zeker nodig was om dit project te maken. Het gebruik van bijvoorbeeld CSS lag blijkbaar ver in het geheugen. 
-                                        Dus hier was de nodige opfrissen voor nodig. Dit kan ik dan ook aanduiden als de problemen die ik ondervond. 
+                                        Tijdens het maken van de website ondervond ik dat het zeker nodig was om dit project te maken. 
+                                        Het gebruik van bijvoorbeeld CSS lag blijkbaar ver in het geheugen. 
+                                        Dus hiervoor was wat opfrissing nodig. Dit kan ik dan ook aanduiden als de problemen die ik ondervond. 
                                         Het moeten opzoeken of bekijken van tutorials en weer het “prullen” om de layout goed te krijgen.   
                                         </p>
                                         <p className= "content-paragraph">
@@ -105,64 +110,55 @@ const AccordionMenu = () => {
                                     <div>
                                         <h2 className="accordion-subtitle">Kern</h2>
                                         <p className="content-paragraph">
-                                            Het onderwerp van het tweede project is ook een vrij makkelijke en snelle beslissing. 
-                                            Het maken, of in ieder geval toch de basis aanleren, van een game staat al langer op het to-do lijstje. Dit is door de jaren heen op de lange baan geschoven. 
-                                            Daarom is I-Talent hier de ideale gelegenheid voor om mij hier eindelijk aan te zetten. 
+                                        Het onderwerp van het tweede project is ook een vrij makkelijke en snelle beslissing. 
+                                        Het maken, of in ieder geval toch de basis aanleren, van een game staat al langer op het to-do lijstje. 
+                                        Dit is door de jaren heen op de lange baan geschoven. Daarom is I-Talent hier de ideale gelegenheid voor om mij hier eindelijk aan te zetten. 
                                         </p>
                                         <p className="content-paragraph">
-                                            Een game maken is tegenwoordig zeer toegankelijk geworden. 
-                                            Dit door het grote aantal aan tools en documentatie die hiervoor beschikbaar zijn. 
-                                            Daarom vind ik het belangrijk om eerst onderzoek te doen naar de tool en dus ook de programmeertaal die ik hiervoor wil gebruiken en het beste past bij mijn noden. 
-                                            Een van deze noden is bijvoorbeeld dat de tool zich moet verlenen om een 2D-game te maken. Na wat onderzoek en het lezen/kijken van vergelijkingen tussen de verschillende tools bleven er vier over. 
-                                            Unity, Unreal Engine, Godot en GameMaker. Niet toevallig vier van de meer bekendere tools.
+                                        Een game maken is tegenwoordig zeer toegankelijk geworden. Dit door het grote aantal aan tools en documentatie die hiervoor beschikbaar zijn. 
+                                        Daarom vind ik het belangrijk om eerst onderzoek te doen naar de tool en dus ook de programmeertaal die ik hiervoor wil gebruiken en het beste past bij mijn noden. Een van deze noden is bijvoorbeeld dat de tool zich moet verlenen om een 2D-game te maken. 
+                                        Na wat onderzoek en het lezen/kijken van vergelijkingen tussen de verschillende tools bleven er vier over. Unity, Unreal Engine, Godot en GameMaker. Niet toevallig vier van de meer bekendere tools.
                                         </p>
                                         <p className="content-paragraph">
-                                            En deze zijn met een goede reden de meer bekendere omdat ze ook zeer veel functionaliteit bieden. 
-                                            Helaas valt Unreal Engine als eerste af door de grote complexiteit en de vele tijd die nodig is om dit aan te leren. Verder richt Unreal Engine zich voornamelijk op het maken van 3D-games. 
-                                            Voor dit project dus niet meteen wat ik zoek. GameMaker is de meest toegankelijke van de vier en stelt zichzelf voor als de ultieme 2D Game Engine. 
-                                            Omdat ik zeker niet uitsluit dat ik hierna nog andere projecten zou willen maken, waaronder misschien ooit een 3D-game, besluit ik ook niet voor deze optie te gaan. 
+                                        En deze zijn met een goede reden de meer bekendere omdat ze ook zeer veel functionaliteiten bieden. 
+                                        Helaas valt Unreal Engine als eerste af door de grote complexiteit en de vele tijd die nodig is om dit aan te leren. Verder richt Unreal Engine zich voornamelijk op het maken van 3D-games. Voor dit project dus niet meteen wat ik zoek. 
+                                        GameMaker is de meest toegankelijke van de vier en stelt zichzelf voor als de ultieme 2D Game Engine. Omdat ik zeker niet uitsluit dat ik hierna nog andere projecten zou willen maken, waaronder misschien ooit een 3D-game, besluit ik ook niet voor deze optie te gaan. 
                                         </p>
                                         <p className="content-paragraph">
-                                            De keuze om uiteindelijk voor Godot te kiezen heeft twee redenen. 
-                                            De eerste reden is dat Godot de developer de keuze laat tussen C# of Godot zijn eigen GDScript Language om te programmeren. 
-                                            GDScript vertoont veel gelijkenissen met Python en dit is voor mij persoonlijk een programmeertaal die mij meer aanspreekt. 
-                                            Unity biedt enkel C# of C++ aan. Verder is de leercurve van Unity hoger en voor dit project zoek ik iets meer toegankelijk.
+                                        De keuze om uiteindelijk voor Godot te kiezen heeft twee redenen. De eerste reden is dat Godot de developer de keuze laat tussen C# of Godot zijn eigen GDScript Language om te programmeren. 
+                                        GDScript vertoont veel gelijkenissen met Python en dit is voor mij persoonlijk een programmeertaal die mij meer aanspreekt. Unity biedt enkel C# of C++ aan. Verder is de leercurve van Unity hoger en voor dit project zoek ik iets meer toegankelijk.
                                         </p>
                                         <p className="content-paragraph">
-                                            Na Godot geïnstalleerd te hebben, zocht ik naar een goede tutorial. De website van Godot biedt een tutorial voor het maken van een kleine 2D-game. 
-                                            Na deze kort te hebben doorgenomen vond ik dat deze iets te “basic” was en zocht ik online naar meer uitgebreide tutorials, deze vond ik via het YouTube-kanaal van Heartbeast. 
-                                            Hierop staan gedetailleerd uitgelegde video’s die de functionaliteit van Godot uitleggen en de kijker gelijklopend een RPG-game laten maken.
+                                        Na Godot geïnstalleerd te hebben, zocht ik naar een goede tutorial. De website van Godot biedt een tutorial voor het maken van een kleine 2D-game. 
+                                        Na deze kort te hebben doorgenomen vond ik dat deze iets te “basic” was en zocht ik online naar meer uitgebreide tutorials, deze vond ik via het YouTube-kanaal van Heartbeast. 
+                                        Hierop staan gedetailleerd uitgelegde video’s die de functionaliteit van Godot uitleggen en de kijker gelijklopend een RPG-game laten maken.
                                         </p>
                                         <p className="content-paragraph">
-                                        Het maken van een 2D-game in Godot kent een logisch verloop. Het begint bij de graphics. 
-                                        Voor deze tutorial worden alle objecten/sprites zelf voorzien. Maar er zou ook gekozen kunnen worden om deze zelf te ontwerpen. 
-                                        Hierna wordt er een wereld gebouwd waarop de verschillende objecten interactie kunnen hebben. 
-                                        Deze wereld kan aangekleed worden met verschillende soorten tegels die de developer kiest. Denk hierbij aan gras of zandpaden. 
+                                        Het maken van een 2D-game in Godot kent een logisch verloop. Het begint bij de graphics. Voor deze tutorial worden alle objecten/sprites zelf voorzien. Maar er zou ook gekozen kunnen worden om deze zelf te ontwerpen. 
+                                        Hierna wordt er een wereld gebouwd waarop de verschillende objecten interactie kunnen hebben. Deze wereld kan aangekleed worden met verschillende soorten tegels die de developer kiest. Denk hierbij aan gras of zandpaden.
                                         </p>
                                         <img src={godotUI} alt="Overview world" className="content-image" />
 
                                         <p className="content-paragraph">
-                                        Na het maken van de wereld, worden doorgaans de verschillende sprites gedefinieerd, Dit kunnen beweegbare of vaste 2D-objecten zijn. 
+                                        Na het maken van de wereld, worden doorgaans de verschillende sprites gedefinieerd. Dit kunnen beweegbare of vaste 2D-objecten zijn. 
                                         Elk object kan zijn eigen specifieke eigenschappen bezitten. Voorbeelden hiervan zijn een hurtbox die aangeeft hoe vaak een object geraakt kan worden vooraleer het verwijderd wordt uit het spel. 
-                                        Maar ook een AnimationPlayer die al de verschillende animaties van een object gaat regelen. Als al deze verschillende objecten klaar zijn kunnen ze worden toegevoegd aan de wereld, zoals player, vijanden, bomen, struiken,... 
+                                        Maar ook een AnimationPlayer die al de verschillende animaties van een object gaat regelen. Als al deze verschillende objecten klaar zijn kunnen ze worden toegevoegd aan de wereld, zoals player, vijanden, bomen, struiken,...
                                         </p>
                                         <img src={godotPlayer} alt="Overview player" className="content-image" />
                                         <p className="content-paragraph">
                                         Wanneer al de gewenste objecten toegevoegd zijn aan de wereld, doet de runtime van Godot zijn werk en wordt de game gestart waarna je een eigen gemaakte game kan spelen. 
-                                        In dit geval is het natuurlijk maar een vrij simpel spel met een speler en een paar vijanden. Maar de mogelijkheden om een groter en complexere game te maken zijn er. 
-                                        De source code van het spel kan teruggevonden worden op mijn GitHub-pagina via de knop onder de tekst.
+                                        In dit geval is het natuurlijk maar een vrij simpel spel met een speler en een paar vijanden. 
+                                        Maar de mogelijkheden om een groter en complexer game te maken zijn er. De source code van het spel kan teruggevonden worden op mijn GitHub-pagina via de knop onder de tekst.
                                         </p>
 
                                         <h2 className="accordion-subtitle">Reflectie</h2>
                                         <p className="content-paragraph">
                                         Met het afronden van het tweede project wordt daarmee ineens ook iets van mijn “bucketlist” gehaald. 
-                                        Zoals eerder al aangehaald was dit iets wat ik van kinds af aan al wilde doen. I-Talent verleende zich hiertoe perfect omdat aan dit uitstelgedrag eindelijk een eind kwam. 
+                                        Zoals eerder al aangehaald was dit iets wat ik van kinds af aan al wilde doen. I-Talent verleende zich hiertoe perfect omdat aan dit uitstelgedrag eindelijk een eind kwam.  
                                         </p>
                                         <p className="content-paragraph">
-                                        Het uiteindelijke project werd gemaakt met Godot. 
-                                        Hier werd voorafgaand een onderzoek gedaan naar welke tools er allemaal zijn en vooral welke tool het beste geschikt was voor dit project. 
-                                        Dit onderzoek vond ik persoonlijk even interessant en leerrijk dan het maken van de game zelf. 
-                                        Dit omdat je een high level beeld krijgt van al de verschillende opties die beschikbaar zijn en wat hun specifieke functionaliteiten. 
+                                        Het uiteindelijke project werd gemaakt met Godot. Hier werd voorafgaand een onderzoek gedaan naar welke tools er allemaal zijn en vooral welke tool het beste geschikt was voor dit project. 
+                                        Dit onderzoek vond ik persoonlijk even interessant en leerrijk dan het maken van de game zelf. Dit omdat je een high level beeld krijgt van al de verschillende opties die beschikbaar zijn en wat hun specifieke functionaliteiten zijn. 
                                         Toekomstgericht vind ik het onderzoeksgedeelte aan dit project zeker een meerwaarde. 
                                         Ik sluit zeker niet uit dat ik in de toekomst hier nog een vervolg aan wil geven en nog eens een uitgebreidere, eventueel in 3D, game wil maken. 
                                         Met de kennis die ik nu heb opgedaan van al deze courante tools weet ik sneller welke tool/platform te gebruiken.
@@ -170,15 +166,11 @@ const AccordionMenu = () => {
                                         <p className="content-paragraph">
                                         Tijdens de opleiding aan de PXL Hasselt wordt game-development niet echt aangeraakt. 
                                         Wat ik persoonlijk jammer vind, is dat hier geen opleidingsonderdeel of keuzetraject in wordt voorzien. 
-                                        Des te meer een argument is om dit zelf als project te doen voor I-Talent. 
-                                        De algemene kennis rond programmeren kwam natuurlijk wel handig van pas. 
+                                        Des te meer een argument is om dit zelf als project te doen voor I-Talent. De algemene kennis rond programmeren kwam natuurlijk wel handig van pas.  
                                         </p>
                                         <p className="content-paragraph">
-                                        Problemen tijdens het project zijn er niet ondervonden. 
-                                        Het enige dat wel aangehaald kan worden is niet direct een probleem, maar een ondervinding. 
-                                        Dat game-development toch wel een andere manier van programmeren vraagt dan het standaard coderen. 
-                                        De basis is zeker hetzelfde maar er komen wel andere aspecten bij kijken, zoals de interactie tussen objecten waarover nagedacht moet worden. 
-                                        Wat een leuke uitbreiding is op enkel coderen.
+                                        Problemen tijdens het project zijn er niet ondervonden. Het enige dat wel aangehaald kan worden is niet direct een probleem, maar een ondervinding. Dat game-development toch wel een andere manier van programmeren vraagt dan het standaard coderen. 
+                                        De basis is zeker hetzelfde maar er komen wel andere aspecten bij kijken, zoals de interactie tussen objecten waarover nagedacht moet worden. Wat een leuke uitbreiding is op enkel coderen.
                                         </p>
                                         <p className="content-paragraph">
                                         Met het project op zijn einde ben ik blij dat ik de keuze gemaakt heb om een game te maken. 
@@ -201,35 +193,30 @@ const AccordionMenu = () => {
                                     <div>
                                         <h2 className="accordion-subtitle">Kern</h2>
                                         <p className="content-paragraph">
-                                        Tijdens mijn stageperiode bij de integratie-experten van Dots & Arrows had ik een aanbod gekregen om na mijn stage bij hen aan de slag te gaan. Hiervoor had ik nog nooit gehoord van integratie. 
-                                        Na wat uitleg en een demo van één van de managing partners leek me dit wel iets interessants om mij in te verdiepen en daar was een stage een ideale kans voor. 
+                                        Tijdens mijn stageperiode bij de integratie-experten van Dots & Arrows had ik een aanbod gekregen om na mijn stage bij hen aan de slag te gaan. 
+                                        Hiervoor had ik nog nooit gehoord van integratie. Na wat uitleg en een demo van één van de managing partners leek me dit wel iets interessants om mij in te verdiepen en daar was een stage een ideale kans voor. 
                                         In deze periode heb ik ontdekt dat integratie wel ‘mijn ding’ is en daarom ben ik ook ingegaan op het aanbod van Dots & Arrows om bij hen te starten als vaste integratie-ontwikkelaar.
                                         </p>
                                         <p className="content-paragraph">
                                         Dots & Arrows voert hun integratieopdrachten voornamelijk uit via het integratieplatform MuleSoft, waarvan zij ook trotse partners zijn. 
-                                        Het is via hen dat ik de kans heb gekregen om een Certified MuleSoft Developer te worden. 
-                                        Om dit te kunnen worden is het afleggen van een examen vereist waarmee je kan aantonen dat je over de nodige competenties beschikt. 
+                                        Het is via hen dat ik de kans heb gekregen om een Certified MuleSoft Developer te worden. Om dit te kunnen worden is het afleggen van een examen vereist waarmee je kan aantonen dat je over de nodige competenties beschikt. 
                                         </p>
                                         <p className="content-paragraph">
-                                        Om dit examen tot een goed einde te brengen is natuurlijk de nodige voorbereiding nodig. 
-                                        Hiervoor voorziet MuleSoft in cursusmateriaal. Dit cursusmateriaal bestaat uit slides, video’s en oefeningen die doorheen de verschillende hoofdstukken aangevuld en/of uitgebreid worden. 
-                                        Dit wordt allemaal beschikbaar gesteld via hun eigen opleiding platform Trailhead. Er wordt verwacht dat al dit cursusmateriaal via zelfstudie wordt doorgenomen. 
-                                        Na elk hoofdstuk wordt er een soort van quiz voorzien. Hiermee kan je jezelf testen of je het volledige hoofdstuk daadwerkelijk begrepen hebt.
+                                        Om dit examen tot een goed einde te brengen is natuurlijk de nodige voorbereiding nodig. Hiervoor voorziet MuleSoft in cursusmateriaal. 
+                                        Dit cursusmateriaal bestaat uit slides, video’s en oefeningen die doorheen de verschillende hoofdstukken aangevuld en/of uitgebreid worden. Dit wordt allemaal beschikbaar gesteld via hun eigen opleidingsplatform Trailhead. 
+                                        Er wordt verwacht dat al dit cursusmateriaal via zelfstudie wordt doorgenomen. Na elk hoofdstuk wordt er een soort van quiz voorzien. 
+                                        Hiermee kan je jezelf testen of je het volledige hoofdstuk daadwerkelijk begrepen hebt.
                                         </p>
                                         <img src={mulesoftCourse} alt="screenshot course" className="content-image" />
                                         <p className="content-paragraph">
-                                        De cursus bestaat uit twee delen. 
-                                        Elk deel geeft een indicatie van het aantal geschatte uren dat hieraan besteed zal worden. 
-                                        Dit heeft deels een vertekend beeld omdat het aantal uren dat je hier effectief mee bezig bent, geen rekening houdt met al de oefeningen die gemaakt kunnen worden. 
-                                        Het aantal gespendeerde uren kan dus zeker maal twee gedaan worden.
+                                        De cursus bestaat uit twee delen. Elk deel geeft een indicatie van het aantal geschatte uren dat hieraan besteed zal worden. 
+                                        Dit heeft deels een vertekend beeld omdat het aantal uren dat je hier effectief mee bezig bent, geen rekening houdt met al de oefeningen die gemaakt kunnen worden. Het aantal gespendeerde uren kan dus zeker maal twee gedaan worden.
                                         </p>
                                         <p className="content-paragraph">
                                         Het eerste deel geeft je een meer algemene kijk op wat MuleSoft nu juist is, wat integratie is en hoe dit toe te passen in een bedrijfscontext. 
-                                        Verder wordt er gestart met het aanleren van de basis van het Anypoint Platform. 
-                                        Dit is het platform dat MuleSoft aanbiedt aan developers om de integratie daadwerkelijk te gaan bouwen. 
+                                        Verder wordt er gestart met het aanleren van de basis van het Anypoint Platform. Dit is het platform dat MuleSoft aanbiedt aan developers om de integratie daadwerkelijk te gaan bouwen. 
                                         Deze worden gebouwd door een opeenvolging van verschillende componenten met telkens hun eigen functie en doel. 
-                                        Aan de hand hiervan kunnen verschillende flows ontworpen worden om zo uiteindelijk tot een herbruikbare API te komen. 
-                                        Anypoint platform biedt hiervoor veel verschillende tools zoals design center, API manager en anypoint studio.
+                                        Aan de hand hiervan kunnen verschillende flows ontworpen worden om zo uiteindelijk tot een herbruikbare API te komen. Anypoint platform biedt hiervoor veel verschillende tools zoals design center, API manager en anypoint studio.
                                         </p>
                                         <img src={exampleFlow} alt="Example flow" className="content-image" />
                                         <p className="content-paragraph">
@@ -240,7 +227,7 @@ const AccordionMenu = () => {
                                         Omdat bij het maken van bepaalde oefeningen soms toch nog extra verduidelijking nodig was, moest er geregeld nog gezocht worden naar documentatie van bepaalde componenten en werkwijzen.
                                         </p>
                                         <p className="content-paragraph">
-                                        Eens al het cursusmateriaal dat MuleSoft zelf beschikbaar stelt was afgerond, is er nog de optie om een voorbeeld examen te maken. 
+                                        Eens al het cursusmateriaal dat MuleSoft zelf beschikbaar stelt was afgerond, is er nog de optie om een voorbeeldexamen te maken. 
                                         Deze bestaat uit zestig meerkeuzevragen die een indicatie geven hoe het echte examen er gaat uitzien en dus een cursist een goede voorbereiding geven aan wat die zich mag verwachten.
                                         </p>
                                         <p className="content-paragraph">
@@ -249,26 +236,22 @@ const AccordionMenu = () => {
 
                                         <h2 className="accordion-subtitle">Reflectie</h2>
                                         <p className="content-paragraph">
-                                        Op het moment van schrijven ben ik nog steeds bezig met voorbereiden op het examen. Meer specifiek met de case die een real-life scenario moet voorstellen. 
-                                        Het certificaat heb ik momenteel dus nog niet behaald omdat het examen gepland staat voor september. 
-                                        Toch wil ik zeker dit project gebruiken voor mijn I-Talent portfolio. 
+                                        Op het moment van schrijven ben ik nog steeds bezig met voorbereiden op het examen. 
+                                        Meer specifiek met de case die een real-life scenario moet voorstellen. 
+                                        Het certificaat heb ik momenteel dus nog niet behaald omdat het examen gepland staat voor september. Toch wil ik zeker dit project gebruiken voor mijn I-Talent portfolio.  
                                         </p>
                                         <p className="content-paragraph">
-                                        De reden hiervoor is dat dit project/opleiding, ook al heb ik het certificaat nog niet behaald, 
-                                        tot nu toe al een grote meerwaarde is gebleken voor mijn persoonlijke ontwikkeling en ook van groot nut is voor mijn huidige job als Integration Developer. 
+                                        De reden hiervoor is dat dit project/deze opleiding tot nu toe al een grote meerwaarde is gebleken voor mijn persoonlijke ontwikkeling en ook van groot nut is voor mijn huidige job als Integration Developer. 
                                         Door de omvang van de opleiding vergt dit wel vrij veel tijd van je. Er komt veel nieuwe informatie op je af en dat vraagt de nodige doorzetting.
                                         </p>
                                         <p className="content-paragraph">
-                                        Tijdens de opleiding aan PXL Hasselt zijn we niet in aanmerking gekomen met integratie op zich. 
-                                        Toch zijn er in dit domein veel aspecten die terugkomen uit de opleiding. Een voorbeeld hiervan is de eigen scripting en data transformeer taal DataWeave. 
+                                        Tijdens de opleiding aan PXL Hasselt zijn we niet in aanmerking gekomen met integratie op zich. Toch zijn er in dit domein veel aspecten die terugkomen uit de opleiding. Een voorbeeld hiervan is de eigen scripting en data transformeer taal DataWeave. 
                                         Door de kennis die ik heb opgedaan van verschillende programmeertalen tijdens de opleiding, ben ik hiermee snel aan de slag kunnen gaan. 
                                         Ook de meer specifieke termen en noodzakelijk kennis die nodig is bij het ontwikkelen van API’s, is hier goed van pas gekomen.
                                         </p>
                                         <p className="content-paragraph">
-                                        Echte problemen heb ik tijdens de opleiding niet ondervonden. 
-                                        Enkel dat bij sommige delen in de cursus niet diep of diep genoeg wordt ingegaan op bepaalde aspecten. 
-                                        Daarom was het nodig om hier zelf onderzoek naar te doen. 
-                                        Wat zeker niet slecht is. Dit omdat in mijn ogen je zelfstandig werken stimuleert en zelf initiatief durft nemen om verder te kijken dan enkel de cursus. 
+                                        Echte problemen heb ik tijdens de opleiding niet ondervonden. Enkel dat bij sommige delen in de cursus niet diep of diep genoeg wordt ingegaan op bepaalde aspecten. 
+                                        Daarom was het nodig om hier zelf onderzoek naar te doen. Wat zeker niet slecht is. Dit omdat in mijn ogen je zelfstandig werken stimuleert en zelf initiatief durft nemen om verder te kijken dan enkel de cursus. 
                                         </p>
                                         <p className="content-paragraph">
                                         Samengevat ben ik blij dat ik de kans krijg om dit traject te doorlopen en dat ik de mogelijkheid krijg om een certified developer te worden. 

@@ -23,21 +23,18 @@ const Reflectie = () => {
                     Het werd voor mij nog een stukje zwaarder toen ik het laatste jaar hierbij nog de bouw van onze nieuwe woonst en de geboorte van mijn dochter moest combineren. 
                     </p>
                     <p className="eindreflectie-paragraph">
-                    Door dit alles ben ik mijn eigen wel beter leren kennen. Het belangrijkste is dat ik over meer doorzettingsvermogen beschik dan ik initieel wist. 
-                    Verder weet ik van mijn eigen dat ik vrij perfectionistisch ben ingesteld. Maar dit kwam de afgelopen drie jaar veel meer tot uiting dan ik zou willen. 
-                    Dit bedoel ik vooral op een manier dat dit mij vaak extra tijd heeft gekost om iets klaar te krijgen. Ik wil het altijd zo goed mogelijk doen en verlies mij vaak in kleine details. 
-                    Hierdoor ondervond ik van mijn eigen dat ik soms inefficiënt aan het werken was. Hieraan heb ik de afgelopen jaren leren werken om deze zelf sneller op te merken, wat ook gelukt is. 
-                    Maar er is zeker nog ruimte voor verbetering. 
+                    Door dit alles heb ik mijn eigen wel beter leren kennen. Het belangrijkste is dat ik over meer doorzettingsvermogen beschik dan ik initieel wist. Verder weet ik van mijn eigen dat ik vrij perfectionistisch ben ingesteld. 
+                    Maar dit kwam de afgelopen drie jaar veel meer tot uiting dan ik zou willen. Dit bedoel ik vooral op een manier dat dit mij vaak extra tijd heeft gekost om iets klaar te krijgen. Ik wil het altijd zo goed mogelijk doen en verlies mij vaak in kleine details. 
+                    Hierdoor ondervond ik van mijn eigen dat ik soms inefficiënt aan het werken was. Hieraan heb ik de afgelopen jaren leren werken om deze zelf sneller op te merken, wat ook gelukt is. Maar er is zeker nog ruimte voor verbetering. 
                     </p>
                     <p className="eindreflectie-paragraph">
                     Op het vlak van de opleiding zelf heb ik heel veel bijgeleerd. Als je kijkt van in het begin van de opleiding, niet deftig weten wat een API was. 
-                    Tot deze nu zelf bouwen, dan besef je wel van over je komt. Daarom ben ik blij dat ik met zoveel verschillende technologieën en tools in aanraking ben gekomen. 
-                    Dit alles heeft zich vertaald in een nieuwe baan bij het bedrijf waar ik stage gelopen heb. Hier heb ik kennisgemaakt met integratie ontwikkeling en low code tools. 
-                    Tijdens de stage bleek dat dat mij wel ligt en daarom ben ik dus ook blij dat ik dit kan verderzetten als fulltime baan.
+                    Tot deze nu zelf bouwen, dan besef je wel wat voor traject je hebt afgelegd. Daarom ben ik blij dat ik met zoveel verschillende technologieën en tools in aanraking ben gekomen.
                     </p>
                     <p className="eindreflectie-paragraph">
-                    Dit alles was natuurlijk nooit bereikt geweest zonder de steun van mijn omgeving en in het bijzonder mijn vriendin, Ine en sinds kort mijn dochter, Pauline. 
-                    Zij zorgde voor de nodige ontspanning tussen het vele werk door. Waarvoor een dikke merci!
+                    Dit alles heeft zich vertaald in een nieuwe baan bij het bedrijf waar ik stage gelopen heb. Hier heb ik kennisgemaakt met integratie-ontwikkeling en low code tools. 
+                    Tijdens de stage bleek dat dat mij wel ligt en daarom ben ik dus ook blij dat ik dit kan verderzetten als fulltime baan.
+                    Dit alles was natuurlijk nooit bereikt geweest zonder de steun van mijn omgeving en in het bijzonder mijn vriendin, Ine en sinds kort mijn dochter, Pauline. Zij zorgde voor de nodige ontspanning tussen het vele werk door. Waarvoor een dikke merci!
                     </p>
                 </div> 
             </div>
