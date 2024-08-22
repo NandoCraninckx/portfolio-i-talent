@@ -32,7 +32,7 @@ const AccordionMenu = () => {
                                         <p className= "content-paragraph">
                                         Er zijn ook nog twee andere redenen waarom dit in de vorm van een website gedaan wordt. 
                                         De eerste reden is dat ik mijn kennis van frontend ontwikkeling wil opfrissen en vooral verder wil ontwikkelen. Mijn focus en interesse zijn meer naar het backend gedeelte van een applicatie. 
-                                        Maar het op punt houden van op zijn minst algemene kennis van het frontend gedeelte mag zeker niet uit het oog verloren worden. 
+                                        Maar het op punt houden van op zijn minst een algemene kennis van het frontend gedeelte mag zeker niet uit het oog verloren worden. 
                                         Ook tijdens mijn opleiding vond ik vaak dat ik “aan het prullen” was met de lay-out. 
                                         Nu dus een perfect moment om hierbij even stil te staan.
                                         </p>
@@ -87,7 +87,7 @@ const AccordionMenu = () => {
                                         <p className= "content-paragraph">
                                         Maar ik moet achteraf toch concluderen dat frontend-development nooit mijn voorkeur zal dragen. 
                                         En als ik de vraag krijg waarom, dan komt het volgens mij door de onvoorspelbaarheid die het met zich meebrengt en het niet creatief genoeg zijn. 
-                                        Ik ben iemand die graag logica heeft, logisch redeneert en zoals al een paar keer niet aangehaald niet continu moet gaan “prullen” op toch net dat ene ding gecentreerd te krijgen. 
+                                        Ik ben iemand die graag logica heeft, logisch redeneert en zoals al een paar keer niet aangehaald niet continu moet gaan “prullen” om toch net dat ene ding gecentreerd te krijgen. 
                                         Dit vind ik eerder terug in backend development en nu sinds kort in low code development.   
                                         </p>
                                         <p className= "content-paragraph">
